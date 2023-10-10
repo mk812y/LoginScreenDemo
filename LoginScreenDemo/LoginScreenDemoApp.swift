@@ -15,3 +15,5 @@ struct LoginScreenDemoApp: App {
         }
     }
 }
+
+//источник https://www.youtube.com/watch?v=Oslris32B8g&t=1s
